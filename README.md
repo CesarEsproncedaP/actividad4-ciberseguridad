@@ -1,6 +1,6 @@
 # Actividad 4 — Ciberseguridad (Tecmilenio)
 
-| Campo | Valor |
+
 |---|---|
 | Alumno | César Julián Espronceda Pantoja |
 | Matrícula | AL07040765 |
@@ -8,7 +8,7 @@
 | Docente | Francisco Gómez Rubio |
 | Fecha | 16 de noviembre del 2026 |
 
-
+ALCARACIÓN: ESTE README ES LO MISMO QUE EL DOCUMENTO QUE SE ENCUENTRA EN EL FOLDER DE "Documento de la actividad" PERO LO ADAPTE A MD PARA QUE FUERA MÁS CÓMODO DE LEER Y DE VERIFICAR EL CÓDIGO EN GENERAL
 
 ## Introducción
 
